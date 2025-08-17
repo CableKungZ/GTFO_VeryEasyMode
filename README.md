@@ -21,7 +21,7 @@ Download the provided `.json` file inside this repository’s **settings** folde
 
 ### Step 3  
 Navigate to your Thunderstore mod file location:  
-  ```%APPDATA%\Thunderstore Mod Manager\DataFolder\GTFO\profiles<your profile name>\BepInEx\plugins\Mendu-EasyMode```
+  ```%APPDATA%\Thunderstore Mod Manager\DataFolder\GTFO\profiles\<your profile name>\BepInEx\plugins\Mendu-EasyMode```
   
 ### Step 4  
 Replace the existing `.json` file with the one you downloaded from this repo.  
